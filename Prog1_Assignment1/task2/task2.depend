@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552337984 source:c:\users\dell\desktop\task2\main.cpp
+	<iostream>
+
+1552429100 source:c:\users\dell\desktop\prog1_firstassignment_20180368\task2\main.cpp
+	<iostream>
+	<string>
+

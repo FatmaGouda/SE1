@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1577480361 source:c:\users\dell\documents\assignment 3 vector\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"course.h"
+	"FCIvector.h"
+
+1577462646 c:\users\dell\documents\assignment 3 vector\include\student.h
+	"course.h"
+	"FCIvector.h"
+	<bits/stdc++.h>
+
+1577467784 c:\users\dell\documents\assignment 3 vector\include\course.h
+	<bits/stdc++.h>
+
+1577481996 c:\users\dell\documents\assignment 3 vector\include\fcivector.h
+	<bits/stdc++.h>
+
+1577467784 source:c:\users\dell\documents\assignment 3 vector\src\course.cpp
+	"course.h"
+	<bits/stdc++.h>
+
+1577467784 source:c:\users\dell\documents\assignment 3 vector\src\student.cpp
+	"student.h"
+	<bits/stdc++.h>
+
